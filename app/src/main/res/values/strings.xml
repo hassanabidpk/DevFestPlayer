@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DevFestPlayer</string>
+    <string name="exoplayer_title">ExoPlayer Sample</string>
+</resources>
